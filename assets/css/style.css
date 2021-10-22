@@ -552,6 +552,7 @@ img {
   float: left;
   text-align: center;
   width: 100%;
+  color: #000;
 }
 .mu-title h2 {
   color: #000;
@@ -559,7 +560,7 @@ img {
   text-transform: uppercase;
 }
 .mu-title p {
-  color: #555;
+  color: #000;
   letter-spacing: 0.3px;
   line-height: 1.7;
   padding: 0 120px;
@@ -685,7 +686,6 @@ img {
  LATEST COURSES SECTION
 ====================*/
 #mu-latest-courses {
-  background-color: #333;
   display: inline;
   float: left;
   padding: 100px 0;
@@ -697,10 +697,10 @@ img {
   width: 100%;
 }
 #mu-latest-courses .mu-latest-courses-area .mu-title h2 {
-  color: #fff;
+  color: #000;
 }
 #mu-latest-courses .mu-latest-courses-area .mu-title p {
-  color: #fff;
+  color: #000;
 }
 #mu-latest-courses .mu-latest-courses-area .mu-latest-courses-content {
   display: inline;
